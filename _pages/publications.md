@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
 [Summary](#Summary), 
 [In review / preprints](#in-review-preprints), 
 [2020](#2020), 
@@ -23,8 +17,11 @@ author_profile: true
 
 
 **Summary**
--	Total: 33 publications; 11 first author
--	Since 2015 (last 5 yrs): 29 publications; 7 first author
+*	Total: 33 publications; 11 first author
+*	Since 2015 (last 5 yrs): 29 publications; 7 first author
+
+* You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
 
 **In review / preprints** <a name="in-review-preprints"></a>
 * Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). BioRxiv. 
