@@ -26,13 +26,13 @@ author_profile: true
 **In review / preprints** <a name="in-review-preprints"></a>
 * Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). BioRxiv. 
 
-* Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1101/754713). BioRxiv
+* Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1101/754713). BioRxiv.
 
-* Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv; DOI: 
+* Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv. 
 
 * Crawford KE, Hedtke SM, DOYLE SR, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones](https://doi.org/10.1101/732446 ). BioRxiv.
 
-* Armoo S, DOYLE SR, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN. (2018) [Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?](https://doi.org/10.1101/458034) BioRxiv
+* Armoo S, DOYLE SR, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN. (2018) [Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?](https://doi.org/10.1101/458034). BioRxiv.
 
 **2020** <a name="2020"></a>
 * writing, writing, writing.... watch this space!
