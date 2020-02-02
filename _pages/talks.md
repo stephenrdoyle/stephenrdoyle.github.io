@@ -22,6 +22,8 @@ author_profile: true
 	* Innovative tools for NTD research: Exploiting genomics, RVC, London, UK.
 	* DIDE Seminar Series, Imperial College London, UK
 	* La Trobe University, Melbourne, Australia
+* 2016
+	* INRA Parasitology Conference. Tours, France (Invited keynote speaker)
 * 2012	
 	* McGill University, Montreal, Canada
 * 2011	
@@ -33,15 +35,20 @@ author_profile: true
 	* 4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
 
 ## Conference talks / posters
-2019	WAAVP, Madison, USA (talk & poster)
-2018	Ecology, Evolution and Genomics of C. elegans and other Nematodes. Wellcome Sanger Institute, Cambridgeshire, UK.
-	Meiosis and Beyond workshop, Earlham Institute, Norwich, UK
-2017	British Society for Parasitology, Dundee, Scotland.
-2016	INRA Parasitology Conference. Tours, France (Invited keynote speaker)
-	British Society for Parasitology, Imperial College London, UK (poster)
-2014	Anthelmintics: From Discovery to Resistance: San Fransisco, USA (talk & poster)
-	Australian Society for Parasitology Conference, Canberra, Australia
-	Molecular and Cellular Biology of Helminth Parasites VIII, Hydra, Greece
-2012	Australian Society for Parasitology Conference, Tasmania, Australia (talk & poster)
-	Genetics Society of AustralAsia, Melbourne, Australia (poster)
+* 2019	
+	* WAAVP, Madison, USA (talk & poster)
+* 2018	
+	* Ecology, Evolution and Genomics of C. elegans and other Nematodes. Wellcome Sanger Institute, Cambridgeshire, UK.
+	* Meiosis and Beyond workshop, Earlham Institute, Norwich, UK
+* 2017	
+	* British Society for Parasitology, Dundee, Scotland.
+* 2016	
+	* British Society for Parasitology, Imperial College London, UK (poster)
+* 2014	
+	* Anthelmintics: From Discovery to Resistance: San Fransisco, USA (talk & poster)
+	* Australian Society for Parasitology Conference, Canberra, Australia
+	* Molecular and Cellular Biology of Helminth Parasites VIII, Hydra, Greece
+* 2012	
+	* Australian Society for Parasitology Conference, Tasmania, Australia (talk & poster)
+	* Genetics Society of AustralAsia, Melbourne, Australia (poster)
 
