@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Undergraduate
 **Practical Demonstrator** (supervising groups of 16-25 students, direct face-to-face contact)
 **Head Practical Demonstrator** (delivery of pre-lab lectures and tutorials, supervision of 80-150 students and management of sessional demonstrators)
