@@ -1,22 +1,18 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "London School of Hygiene & Tropical Medicine, London, UK",
+    51.5208702,-0.1306513
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, Scotland, UK",
+    55.8880817,-4.3399345
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Natural History Museum, London, UK",
+    51.6884325,-1.2968817
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Royal Veterinary College, London, UK",
+    51.5366976,-0.1361583
   ]
 ];
