@@ -13,21 +13,26 @@ author_profile: true
 
 ## Departmental/Invited Talks
 * 2019	
-** London School of Hygiene & Tropical Medicine, London, UK
-** Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, Scotland, UK
-** CARS, Madison, USA
+	* London School of Hygiene & Tropical Medicine, London, UK
+	* Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, Scotland, UK
+	* CARS, Madison, USA
 * 2018	
-** Genetic diversity of NTD Pathogens, Natural History Museum, London, UK
-2017	Innovative tools for NTD research: Exploiting genomics, RVC, London, UK.
-	DIDE Seminar Series, Imperial College London, UK
-	La Trobe University, Melbourne, Australia
-2012	McGill University, Montreal, Canada
-2011	Thomson Reuters System Biology Seminar Series Winter 2011, La Trobe University
-	VLSCI NGS Informatics Retreat, Brighton, Australia
-2009	6th Annual Australian QPCR Meeting; Melbourne, Australia
-2008	4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
+	* Genetic diversity of NTD Pathogens, Natural History Museum, London, UK
+* 2017	
+	* Innovative tools for NTD research: Exploiting genomics, RVC, London, UK.
+	* DIDE Seminar Series, Imperial College London, UK
+	* La Trobe University, Melbourne, Australia
+* 2012	
+	* McGill University, Montreal, Canada
+* 2011	
+	* Thomson Reuters System Biology Seminar Series Winter 2011, La Trobe University
+	* VLSCI NGS Informatics Retreat, Brighton, Australia
+* 2009	
+	* 6th Annual Australian QPCR Meeting; Melbourne, Australia
+* 2008	
+	* 4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
 
-Conference talks / posters
+## Conference talks / posters
 2019	WAAVP, Madison, USA (talk & poster)
 2018	Ecology, Evolution and Genomics of C. elegans and other Nematodes. Wellcome Sanger Institute, Cambridgeshire, UK.
 	Meiosis and Beyond workshop, Earlham Institute, Norwich, UK
