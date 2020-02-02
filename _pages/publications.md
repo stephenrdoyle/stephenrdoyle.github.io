@@ -20,7 +20,7 @@ author_profile: true
 *	Total: 33 publications; 11 first author
 *	Since 2015 (last 5 yrs): 29 publications; 7 first author
 
-* You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+* You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en) profile
 
 
 **In review / preprints** <a name="in-review-preprints"></a>
