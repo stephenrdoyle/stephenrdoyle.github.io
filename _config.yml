@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://stephenrdoyle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stephenrdoyle/stephenrdoyle.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "Doyle SR - mugshot.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephen Doyle"
-  avatar           : "profile.png"
+  avatar           : "Doyle SR - mugshot.jpg"
   bio              : "Postdoctoral Fellow, Wellcome Sanger Institute"
   location         : "Cambridgeshire, UK"
   employer         :
