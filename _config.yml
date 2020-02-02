@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Stephen Doyle / Nematode Evolutionary Genomics"
+title                    : "Nematode Evolutionary Genomics"
 title_separator          : "-"
 name                     : &name "Stephen Doyle"
 description              : &description "personal description"
