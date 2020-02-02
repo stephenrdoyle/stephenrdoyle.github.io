@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* 2001-2004 Bachelor of Medical Science, La Trobe University, Australia
+* 2001-2004 | Bachelor of Medical Science, La Trobe University, Australia
 
-* 2005 Honours, Department of Genetics, La Trobe University, Australia
+* 2005 | Honours, Department of Genetics, La Trobe University, Australia
 Thesis title: Targeted non-viral gene delivery: Intracellular trafficking of polyethylenimine-peptide bio-conjugates; First class honours awarded
 Advisor: Dr Chee Kai Chan
 
