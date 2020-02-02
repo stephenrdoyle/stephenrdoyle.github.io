@@ -11,15 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
-[Summary](#Summary)
-[In review / preprints](#in-review-preprints)
-[2020](#2020)
-[2019](#2019)
-[2018](#2018)
-[2017](#2017)
-[2016](#2016)
-[2015](#2015)
+[Summary](#Summary), 
+[In review / preprints](#in-review-preprints), 
+[2020](#2020), 
+[2019](#2019), 
+[2018](#2018), 
+[2017](#2017), 
+[2016](#2016), 
+[2015](#2015), 
 [pre-2015](#pre-2015)
+
+
 Summary
 -	Total: 33 publications; 11 first author
 -	Since 2015 (last 5 yrs): 29 publications; 7 first author
