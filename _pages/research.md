@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Building high-quality genomic resources to understand the evolutionary history between organisms*
+## Building high-quality genomic resources to understand the evolutionary history between organisms
 
 *Examples*
 * Haemonchus contortus chromosomal genome assembly and annotation
@@ -13,7 +13,7 @@ author_profile: true
 * Genome of Onchocerca volvulus, the causative agent of human River Blindness
 
 
-## Defining genetic relationships within species at both local and global scales*
+## Defining genetic relationships within species at both local and global scales
 
 *Examples*
 * Global diversity of Haemonchus contortus
@@ -21,7 +21,7 @@ author_profile: true
 * Transmission of Guinea worm within and between populations of human and dogs
 
 
-## Understanding genome-wide variation to map genes associated with traits of interest*
+## Understanding genome-wide variation to map genes associated with traits of interest
 
 *Examples*
 * Genetic response by the human pathogen Onchocerca volvulus to ivermectin mass drug administration  
