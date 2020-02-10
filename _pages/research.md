@@ -16,7 +16,7 @@ author_profile: true
 ## Defining genetic relationships within species at both local and global scales
 
 *Examples*
-* Global diversity of *Haemonchus contortus* ; [Paper](https://doi.org/10.1038/s41467-019-12695-4)ß
+* Global diversity of *Haemonchus contortus* ; [Paper](https://doi.org/10.1038/s41467-019-12695-4)
 * Genetic map and familial relationships among a brood of *Haemonchus contortus* ; [Paper](https://doi.org/10.1093/gbe/evx269) [GitHub]()
 * Transmission of Guinea worm within and between populations of human and dogs; [Paper](https://doi.org/10.1101/808923)
 
