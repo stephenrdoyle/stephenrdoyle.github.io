@@ -5,32 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Summary](#Summary), 
-[In review / preprints](#in-review-preprints), 
-[2020](#2020), 
-[2019](#2019), 
-[2018](#2018), 
-[2017](#2017), 
-[2016](#2016), 
-[2015](#2015), 
+[Summary](#Summary),
+[In review / preprints](#in-review-preprints),
+[2020](#2020),
+[2019](#2019),
+[2018](#2018),
+[2017](#2017),
+[2016](#2016),
+[2015](#2015),
 [pre-2015](#pre-2015)
 
 
 **Summary**
-*	Total: 33 publications; 11 first author
-*	Since 2015 (last 5 yrs): 29 publications; 7 first author
+*	Total: 34 publications; 12 first author
+*	Since 2015 (last 5 yrs): 30 publications; 8 first author
 
 * You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en) profile
 
 
 **In review / preprints** <a name="in-review-preprints"></a>
-* Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). BioRxiv. 
+* **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Sankaranarayanan G, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Extensive genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal wor](https://doi.org/10.1101/2020.02.18.945246). BioxRiv.
+
+* Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). BioRxiv.
 
 * Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1101/754713). BioRxiv.
 
-* Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv. 
+* Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv.
 
-* Crawford KE, Hedtke SM, DOYLE SR, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones](https://doi.org/10.1101/732446 ). BioRxiv.
+* Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones](https://doi.org/10.1101/732446 ). BioRxiv.
 
 * Armoo S, DOYLE SR, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN. (2018) [Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?](https://doi.org/10.1101/458034). BioRxiv.
 
@@ -41,7 +43,7 @@ author_profile: true
 
 * **DOYLE SR**, Sankaranarayan G, Allan F, Berger D, Castro PDJ, Collins JB, Crellen T, Duque-Correa MA, Ellis P, Jaleta TG, Laing R, Maitland K, McCarthy C, Moundai T, Softley B, Thiele E, Ouakou PT, Tushabe JV, Webster JP, Weiss AJ, Lok J, Devaney E, Kaplan RM, Cotton JA, Berriman M, Holroyd N. (2019) [Evaluation of DNA extraction methods on individual helminth egg and larval stages for whole genome sequencing](https://doi.org/10.3389/fgene.2019.00826). Frontiers in Genetics.
 
-* Sallé G, **DOYLE SR**, Cortet J, Cabaret J, Berriman M, Holroyd N, Cotton JA (2019) [The global diversity of Haemonchus contortus is shaped by human intervention and climate](https://doi.org/10.1038/s41467-019-12695-4). Nature Communications; [Nat Micro Blog](https://go.nature.com/35VNdpt) 
+* Sallé G, **DOYLE SR**, Cortet J, Cabaret J, Berriman M, Holroyd N, Cotton JA (2019) [The global diversity of Haemonchus contortus is shaped by human intervention and climate](https://doi.org/10.1038/s41467-019-12695-4). Nature Communications; [Nat Micro Blog](https://go.nature.com/35VNdpt)
 
 * Parisi K, **DOYLE SR**, Lee E, Lowe R, Weerden NVD, Anderson M, Bleackley M. (2019) [Screening the Saccharomyces cerevisiae non-essential gene deletion library reveals diverse mechanisms of action for antifungal plant defensins](https://10.1128/AAC.01097-19 ). Antimicrobial Agents and Chemotherapy
 
@@ -72,7 +74,7 @@ author_profile: true
 
 * Juma AR, Sahota A, Grommen SVH, O’Connor AE, Merriner DJ, Hu J, Hall NE, **DOYLE SR**, Damdimopoulos AE, Damdimopoulou PE, Barriga D, Hart AH, Van De Ven WJM, O’Bryan MK, De Groef B. (2017) [PLAG1 deficiency impairs spermatogenesis in mice](https://doi.org/10.1038/s41598-017-05676-4). Scientific Reports.
 
-* Roura A, **DOYLE SR**, Nande M, Strugnell JS. (2017) [You are what you eat: a genomic analysis of the gut microbiome of captive and wild Octopus vulgaris paralarvae and their zooplankton prey](https://doi.org/10.3389/fphys.2017.00362). Front. Physiol. 
+* Roura A, **DOYLE SR**, Nande M, Strugnell JS. (2017) [You are what you eat: a genomic analysis of the gut microbiome of captive and wild Octopus vulgaris paralarvae and their zooplankton prey](https://doi.org/10.3389/fphys.2017.00362). Front. Physiol.
 
 * Armoo SK, **DOYLE SR**, Osei-Atweneboana MY, Grant WN. (2017). [Significant heterogeneity in Wolbachia copy number within and between populations of Onchocerca volvulus](https://doi.org/10.1186/s13071-017-2126-4). Parasites and Vectors.
 
@@ -105,4 +107,3 @@ author_profile: true
 * **DOYLE SR** and Chan CK, (2008). [Mitochondrial gene therapy an evaluation of strategies for the treatment of mitochondrial DNA disorders](https://doi.org/10.1089/hum.2008.090). Hum Gene Ther. Figure 2 was selected as the cover artwork for the print issue
 
 * **DOYLE SR** and Chan CK, (2007). [Differential intracellular distribution of DNA complexed with polyethylenimine (PEI) and PEI-polyarginine PTD influences exogenous gene expression within live COS-7 cells](https://doi.org/10.1186/1479-0556-5-11). Genet Vaccines Ther.
-
