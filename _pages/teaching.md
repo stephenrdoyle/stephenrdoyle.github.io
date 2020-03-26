@@ -27,4 +27,4 @@ author_profile: true
 
 
 ## Course materials
-** LSHTM Parasite Genomics 2020**(https://github.com/stephenrdoyle/LSHTM_ParasiteGenomics_2020/blob/master/README.md)
+[LSHTM Parasite Genomics 2020](https://github.com/stephenrdoyle/LSHTM_ParasiteGenomics_2020/blob/master/README.md)
