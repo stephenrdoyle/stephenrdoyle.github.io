@@ -25,5 +25,6 @@ author_profile: true
 
 **Course Instructor**, Pathogen Genomics MSc, The London School of Hygiene & Tropical Medicine, London, UK: April/May 2018, April/May 2019
 
+
 ## Course materials
 ** LSHTM Parasite Genomics 2020**(https://github.com/stephenrdoyle/LSHTM_ParasiteGenomics_2020/blob/master/README.md)
