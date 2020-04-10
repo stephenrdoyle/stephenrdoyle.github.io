@@ -17,14 +17,16 @@ author_profile: true
 
 
 **Summary**
-*	Total: 34 publications; 12 first author
-*	Since 2015 (last 5 yrs): 30 publications; 8 first author
+*	Total: 35 publications; 12 first author
+*	Since 2015 (last 5 yrs): 31 publications; 8 first author
 
 * You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en) profile
 
 
 **In review / preprints** <a name="in-review-preprints"></a>
-* **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Sankaranarayanan G, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Extensive genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal wor](https://doi.org/10.1101/2020.02.18.945246). BioxRiv.
+* Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, Holroyd N, Berriman M. (2020) [Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection](https://doi.org/10.1101/2020.04.08.031872). BioRxiv.
+
+* **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Sankaranarayanan G, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Extensive genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm](https://doi.org/10.1101/2020.02.18.945246). BioxRiv.
 
 * Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). BioRxiv.
 
