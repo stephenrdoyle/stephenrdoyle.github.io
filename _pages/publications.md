@@ -41,6 +41,8 @@ author_profile: true
 **2020** <a name="2020"></a>
 * writing, writing, writing.... watch this space!
 
+* peer review: Genes, Parasites & Vectors, Pathogens
+
 **2019** <a name="2019"></a>
 
 * **DOYLE SR**, Sankaranarayan G, Allan F, Berger D, Castro PDJ, Collins JB, Crellen T, Duque-Correa MA, Ellis P, Jaleta TG, Laing R, Maitland K, McCarthy C, Moundai T, Softley B, Thiele E, Ouakou PT, Tushabe JV, Webster JP, Weiss AJ, Lok J, Devaney E, Kaplan RM, Cotton JA, Berriman M, Holroyd N. (2019) [Evaluation of DNA extraction methods on individual helminth egg and larval stages for whole genome sequencing](https://doi.org/10.3389/fgene.2019.00826). Frontiers in Genetics.
@@ -57,6 +59,7 @@ author_profile: true
 
 * **DOYLE SR**, Cotton JA. (2019) [Genome-wide approaches to investigate anthelmintic resistance](https://doi.org/10.1016/j.pt.2019.01.004). Trends in Parasitology.
 
+* peer review: PLoS Pathogens, Parasites & Vectors, Scientific Data, Parasitology International, PLoS NTD
 
 **2018** <a name="2018"></a>
 
@@ -67,6 +70,8 @@ author_profile: true
 * Kanzaki N, Tsai IJ, Tanaka R, Hunt VL, Tsuyama K, Liu D, Maeda Y, Woodruff G, Namai S, Kumagai R, Tracey A, Holroyd N, **DOYLE SR**, Murase K, Kitazume H, Billah MM, Ke HM, Wang J, Berriman M, Sternberg P, Sugimoto A, Kikuchi T. (2018) [Biology and genome of a newly discovered sibling species of Caenorhabditis elegans](https://doi.org/10.1038/s41467-018-05712-5). Nature Communications.
 
 * **DOYLE SR**, Laing R, Bartley DJ, Britton C, Chaudhry U, Gilleard JS, Holroyd N, Mable BK, Maitland K, Morrison AA, Tait A, Tracey A, Berriman M, Devaney E, Cotton JA, Sargison ND. (2018) [A genome resequencing-based genetic map reveals the recombination landscape of an outbred parasitic nematode in the presence of polyploidy and polyandry](https://doi.org/10.1093/gbe/evx269). Genome Biology and Evolution.
+
+* peer review: PLoS One, International Journal of Parasitology,
 
 **2017** <a name="2017"></a>
 
@@ -79,6 +84,8 @@ author_profile: true
 * Roura A, **DOYLE SR**, Nande M, Strugnell JS. (2017) [You are what you eat: a genomic analysis of the gut microbiome of captive and wild Octopus vulgaris paralarvae and their zooplankton prey](https://doi.org/10.3389/fphys.2017.00362). Front. Physiol.
 
 * Armoo SK, **DOYLE SR**, Osei-Atweneboana MY, Grant WN. (2017). [Significant heterogeneity in Wolbachia copy number within and between populations of Onchocerca volvulus](https://doi.org/10.1186/s13071-017-2126-4). Parasites and Vectors.
+
+* peer review: Genome Biology & Evolution, GigaScience, Nucleic Acids Research, Scientific Reports, PLoS NTD, Parasites & Vectors
 
 **2016** <a name="2016"></a>
 * **DOYLE SR**, Armoo S, Osei-Atweneboana MY, Renz A, Grant WN. (2016) [Discrimination between Onchocerca volvulus and O. ochengi filarial larvae in Simulium damnosum s.l. and their distribution throughout central Ghana using a versatile high-resolution speciation assay](https://doi.org/10.1186/s13071-016-1832-7). Parasites & Vectors.
@@ -93,12 +100,15 @@ author_profile: true
 
 * Wong NC, Pope BJ, Candiloro I., Korbie D., Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A. (2016) [MethPat: a tool for the analysis and visualisation of complex methylation patterns obtained by massively parallel sequencing](https://doi.org/10.1186/s12859-016-0950-8). BMC Bioinformatics.
 
+* peer review: PLoS NTD, Journal of Helminthology
 
 **2015** <a name="2015"></a>
 
 * Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A, (2015) [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](https://doi.org/10.1186/s13742-015-0098-x). GigaScience.
 
 * **DOYLE SR**, Griffiths IS, Murphy NP, Strugnell JM, (2015). [Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, Sagmariasus verreauxi](https://doi.org/10.3109/19401736.2013.855921). Mitochondrial DNA.
+
+* peer review: PLoS One, Molecular Ecology Resources
 
 **Pre-2015** <a name="pre-2015"></a>
 
