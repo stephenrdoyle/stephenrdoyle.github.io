@@ -24,6 +24,8 @@ author_profile: true
 
 
 **In review / preprints** <a name="in-review-preprints"></a>
+* McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea* Sm. Asphodelaceae) revealed using targeted amplicon sequencing. In review.
+
 * Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, Holroyd N, Berriman M. (2020) [Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection](https://doi.org/10.1101/2020.04.08.031872). BioRxiv.
 
 * **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Sankaranarayanan G, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Extensive genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm](https://doi.org/10.1101/2020.02.18.945246). BioxRiv.
