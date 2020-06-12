@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-test
+
 
 ## Undergraduate
 **Practical Demonstrator** (supervising groups of 16-25 students, direct face-to-face contact)
