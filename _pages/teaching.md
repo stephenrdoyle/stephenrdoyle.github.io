@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+test
 
 ## Undergraduate
 **Practical Demonstrator** (supervising groups of 16-25 students, direct face-to-face contact)
@@ -23,7 +24,7 @@ author_profile: true
 
 **Course Instructor**, Helminth Bioinformatics, Wellcome Trust Advanced Courses: Accra, Ghana (2019)
 
-**Course Instructor**, Pathogen Genomics MSc, The London School of Hygiene & Tropical Medicine, London, UK: April/May 2018, April/May 2019
+**Course Instructor**, Pathogen Genomics MSc, The London School of Hygiene & Tropical Medicine, London, UK: April/May 2018, April/May 2019, April 2020
 
 
 ## Course materials
