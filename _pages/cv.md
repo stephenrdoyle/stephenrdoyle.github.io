@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 ## Work experience
-2020-current **UKRI Future Leaders Fellow**,  Wellcome Sanger Institute, UK
-* Project: “The generation and maintenance of genetic novelty in helminth populations”  
+`2020-current` : **UKRI Future Leaders Fellow**,  Wellcome Sanger Institute, UK  
+*Project: “The generation and maintenance of genetic novelty in helminth populations”*
 
-2015-2020
-: **Postdoctoral Fellow**, Parasite Genomics Group, Wellcome Sanger Institute, UK
-* Project: “Building Upon the Genome: using *Haemonchus contortus* genomic resources to develop novel interventions to control endemic GI parasites”  
+`2015-2020`
+: **Postdoctoral Fellow**, Parasite Genomics Group, Wellcome Sanger Institute, UK  
+*Project: “Building Upon the Genome: using *Haemonchus contortus* genomic resources to develop novel interventions to control endemic GI parasites”*  
 
 2012-2015	**Early Career Development Fellow**, Department of Genetics / Dept. Animal, Plant, and Soil Sciences, La Trobe University, Australia
 * Project: “Population genomics of ivermectin drug response in the human parasitic nematode, *Onchocerca volvulus*”  
