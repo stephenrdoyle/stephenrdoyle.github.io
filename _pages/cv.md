@@ -7,20 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-## Education
-2006-2010 **PhD**, Department of Genetics, La Trobe University, Australia
-* Thesis title: Development of genetic strategies for the investigation and treatment of mitochondrial DNA disorders
-* Advisors: Dr Chee Kai Chan / Assoc. Prof. Warwick Grant
-
-2005 **Honours**, Department of Genetics, La Trobe University, Australia
-* Thesis title: Targeted non-viral gene delivery: Intracellular trafficking of polyethylenimine-peptide bio-conjugates; First class honours awarded
-* Advisor: Dr Chee Kai Chan
-
-2001-2004 **Bachelor of Medical Science**, La Trobe University, Australia
-
-
-
 ## Work experience
 2020-current **UKRI Future Leaders Fellow**,  Wellcome Sanger Institute, UK
 * Project: “The generation and maintenance of genetic novelty in helminth populations”
@@ -33,6 +19,19 @@ redirect_from:
 
 2011	**Postdoctoral Fellow**, Department of Genetics, La Trobe University, Australia
 * Project: “Development of Markers for Ivermectin Resistance monitoring in *Onchocerca volvulus*”
+
+
+## Education
+2006-2010 **PhD**, Department of Genetics, La Trobe University, Australia
+* Thesis title: Development of genetic strategies for the investigation and treatment of mitochondrial DNA disorders
+* Advisors: Dr Chee Kai Chan / Assoc. Prof. Warwick Grant
+
+2005 **Honours**, Department of Genetics, La Trobe University, Australia
+* Thesis title: Targeted non-viral gene delivery: Intracellular trafficking of polyethylenimine-peptide bio-conjugates; First class honours awarded
+* Advisor: Dr Chee Kai Chan
+
+2001-2004 **Bachelor of Medical Science**, La Trobe University, Australia
+
 
 
 ## Professional associations and contributions
