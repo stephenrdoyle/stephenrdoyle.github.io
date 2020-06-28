@@ -12,7 +12,7 @@ redirect_from:
 *Project: “The generation and maintenance of genetic novelty in helminth populations”*
 
 2015-2020 : **Postdoctoral Fellow**, Parasite Genomics Group, Wellcome Sanger Institute, UK  
-*Project: “Building Upon the Genome: using *Haemonchus contortus genomic resources to develop novel interventions to control endemic GI parasites”*  
+*Project: “Building Upon the Genome: using *Haemonchus contortus genomic resources to develop novel interventions to control endemic gastrointestinal parasites”*  
 
 2012-2015	: **Early Career Development Fellow**, Department of Genetics / Dept. Animal, Plant, and Soil Sciences, La Trobe University, Australia  
 *Project: “Population genomics of ivermectin drug response in the human parasitic nematode, *Onchocerca volvulus*”  
