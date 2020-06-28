@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Work experience
+## Employment
 2020-current : **UKRI Future Leaders Fellow**, Wellcome Sanger Institute, UK  
 *Project: “The generation and maintenance of genetic novelty in helminth populations”*
 
