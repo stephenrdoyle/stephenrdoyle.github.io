@@ -26,10 +26,4 @@ This is my website on worms, genomics, and other stuff I am working on.
 Cheers, 
 Stephen
 
-```{r}
-# Source: http://www.htmlwidgets.org/showcase_plotly.html
-library(plotly)
-p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
-            geom_bar(position = "dodge")
-ggplotly(p)
-```
+
