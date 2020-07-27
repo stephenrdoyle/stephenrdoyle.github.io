@@ -43,7 +43,7 @@ author_profile: true
 **2020** <a name="2020"></a>
 * writing, writing, writing.... watch this space!
 
-* peer review: Genes, Parasites & Vectors (2), Pathogens, Scientific Reports, Genome Biology & Evolution, International Journal for Parasitology (2)
+* peer review: Genes, Parasites & Vectors (2), Pathogens, Scientific Reports, Genome Biology & Evolution, International Journal for Parasitology (2), Infection Genetics and Evolution
 
 **2019** <a name="2019"></a>
 
