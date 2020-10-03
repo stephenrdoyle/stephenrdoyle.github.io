@@ -28,12 +28,6 @@ author_profile: true
 
 * Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, Holroyd N, Berriman M. (2020) [Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection](https://doi.org/10.1101/2020.04.08.031872). BioRxiv.
 
-* **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Sankaranarayanan G, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Extensive genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm](https://doi.org/10.1101/2020.02.18.945246). BioxRiv.
-
-* Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). BioRxiv.
-
-* Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1101/754713). BioRxiv.
-
 * Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv.
 
 * Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones](https://doi.org/10.1101/732446 ). BioRxiv.
@@ -41,9 +35,14 @@ author_profile: true
 * Armoo S, DOYLE SR, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN. (2018) [Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?](https://doi.org/10.1101/458034). BioRxiv.
 
 **2020** <a name="2020"></a>
-* writing, writing, writing.... watch this space!
+* **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Sankaranarayanan G, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Extensive genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm](https://doi.org/10.1101/2020.02.18.945246). BioxRiv.
 
-* peer review: Genes, Parasites & Vectors (2), Pathogens, Scientific Reports, Genome Biology & Evolution, International Journal for Parasitology (2), Infection Genetics and Evolution, Trends in Parasitology
+* Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1101/754713). BioRxiv.
+
+* Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). BioRxiv.
+
+
+* peer review: Genes, Parasites & Vectors (2), Pathogens, Scientific Reports, Genome Biology & Evolution, International Journal for Parasitology (2), Infection Genetics and Evolution, Trends in Parasitology, Genomics
 
 **2019** <a name="2019"></a>
 
