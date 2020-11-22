@@ -26,23 +26,28 @@ author_profile: true
 **In review / preprints** <a name="in-review-preprints"></a>
 * McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea* Sm. Asphodelaceae) revealed using targeted amplicon sequencing. In review.
 
-* Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, Holroyd N, Berriman M. (2020) [Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection](https://doi.org/10.1101/2020.04.08.031872). BioRxiv.
-
 * Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv.
 
 * Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones](https://doi.org/10.1101/732446 ). BioRxiv.
 
 * Armoo S, DOYLE SR, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN. (2018) [Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?](https://doi.org/10.1101/458034). BioRxiv.
 
+
+
+
 **2020** <a name="2020"></a>
-* **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Sankaranarayanan G, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Extensive genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm](https://doi.org/10.1101/2020.02.18.945246). BioxRiv.
+* **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm](https://doi.org/10.1038/s42003-020-01377-3). Communications Biology
 
-* Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1101/754713). BioRxiv.
+* Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1101/754713). BioRxiv. Accepted Nature Communications.
 
-* Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). BioRxiv.
+* Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). bioRxiv. Accepted PLoS NTD.
+
+* Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, Holroyd N, Berriman M. (2020) [Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection](https://doi.org/10.1186/s12915-020-00899-w). BMC Biology.
 
 
-* peer review: Genes, Parasites & Vectors (2), Pathogens, Scientific Reports, Genome Biology & Evolution, International Journal for Parasitology (2), Infection Genetics and Evolution, Trends in Parasitology, Genomics
+* peer review: Genes, Genome Biology & Evolution, Genomics, Infection Genetics and Evolution, International Journal for Parasitology (2), Parasites & Vectors (2), Pathogens, PLoS NTD, Scientific Reports, Trends in Parasitology.  
+
+
 
 **2019** <a name="2019"></a>
 
@@ -62,6 +67,9 @@ author_profile: true
 
 * peer review: PLoS Pathogens, Parasites & Vectors, Scientific Data, Parasitology International, PLoS NTD
 
+
+
+
 **2018** <a name="2018"></a>
 
 * Woodings LN, Murphy NP, **DOYLE SR**, Hall N, Robinson A, Liggins, G, Green BS, Strugnell JM. (2018) [Outlier SNPs detect weak regional structure against a background of genetic homogeneity in the Eastern Rock Lobster, Sagmariasus verreauxi](https://doi.org/10.1007/s00227-018-3443-7). Marine Biology.
@@ -73,6 +81,9 @@ author_profile: true
 * **DOYLE SR**, Laing R, Bartley DJ, Britton C, Chaudhry U, Gilleard JS, Holroyd N, Mable BK, Maitland K, Morrison AA, Tait A, Tracey A, Berriman M, Devaney E, Cotton JA, Sargison ND. (2018) [A genome resequencing-based genetic map reveals the recombination landscape of an outbred parasitic nematode in the presence of polyploidy and polyandry](https://doi.org/10.1093/gbe/evx269). Genome Biology and Evolution.
 
 * peer review: PLoS One, International Journal of Parasitology,
+
+
+
 
 **2017** <a name="2017"></a>
 
@@ -87,6 +98,10 @@ author_profile: true
 * Armoo SK, **DOYLE SR**, Osei-Atweneboana MY, Grant WN. (2017). [Significant heterogeneity in Wolbachia copy number within and between populations of Onchocerca volvulus](https://doi.org/10.1186/s13071-017-2126-4). Parasites and Vectors.
 
 * peer review: Genome Biology & Evolution, GigaScience, Nucleic Acids Research, Scientific Reports, PLoS NTD, Parasites & Vectors
+
+
+
+
 
 **2016** <a name="2016"></a>
 * **DOYLE SR**, Armoo S, Osei-Atweneboana MY, Renz A, Grant WN. (2016) [Discrimination between Onchocerca volvulus and O. ochengi filarial larvae in Simulium damnosum s.l. and their distribution throughout central Ghana using a versatile high-resolution speciation assay](https://doi.org/10.1186/s13071-016-1832-7). Parasites & Vectors.
@@ -103,6 +118,10 @@ author_profile: true
 
 * peer review: PLoS NTD, Journal of Helminthology
 
+
+
+
+
 **2015** <a name="2015"></a>
 
 * Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A, (2015) [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](https://doi.org/10.1186/s13742-015-0098-x). GigaScience.
@@ -110,6 +129,9 @@ author_profile: true
 * **DOYLE SR**, Griffiths IS, Murphy NP, Strugnell JM, (2015). [Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, Sagmariasus verreauxi](https://doi.org/10.3109/19401736.2013.855921). Mitochondrial DNA.
 
 * peer review: PLoS One, Molecular Ecology Resources
+
+
+
 
 **Pre-2015** <a name="pre-2015"></a>
 
