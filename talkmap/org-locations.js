@@ -1,4 +1,12 @@
 var addressPoints = [
+     [
+       "University of Calgary (Host-Parasite Interactions Seminar Series, Canada (virtually)",
+       51.0671190748015, -114.13515593716657
+     ],
+     [
+       "Department of Infectious Diseases, University of Georgia, USA (virtually)",
+       33.9407858799518, -83.37541163722808
+ ],
   [
     "London School of Hygiene & Tropical Medicine, London, UK",
     51.5208702,-0.1306513
@@ -36,7 +44,7 @@ var addressPoints = [
     43.0718524,-89.4079886
   ],
   [
-    "C.elegans and otehr nematodes, Wellcome Sanger Institute, UK",
+    "C.elegans and other nematodes, Wellcome Sanger Institute, UK",
     52.0797096,0.1835767
   ],
   [
