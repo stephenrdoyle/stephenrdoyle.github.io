@@ -13,6 +13,7 @@ author_profile: true
 
 ## Departmental/Invited Talks
 * 2020
+	* Department of Infectious Diseases, University of Georgia, USA (via Zoom)
 	* Host-Parasite Interactions Seminar Series, University of Calgary, Canada (via Zoom)
 * 2019
 	* London School of Hygiene & Tropical Medicine, London, UK
