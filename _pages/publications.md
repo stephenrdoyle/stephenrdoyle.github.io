@@ -7,6 +7,7 @@ author_profile: true
 
 [Summary](#Summary),
 [In review / preprints](#in-review-preprints),
+[2021](#2021),
 [2020](#2020),
 [2019](#2019),
 [2018](#2018),
@@ -33,14 +34,20 @@ author_profile: true
 * Armoo S, DOYLE SR, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN. (2018) [Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?](https://doi.org/10.1101/458034). BioRxiv.
 
 
+**2021** <a name="2021"></a>
+* Writing, writing, writing...
+
+* peer review: International Journal for Parasitology DDR, Parasitology Research
 
 
 **2020** <a name="2020"></a>
+* Kotze AC, Gilleard JS, **DOYLE SR**, Prichard RK. (2020) [Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance](https://doi.org/10.1016/j.ijpddr.2020.11.005). Int. J Parasitol-DDR
+
 * **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm](https://doi.org/10.1038/s42003-020-01377-3). Communications Biology
 
-* Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1101/754713). BioRxiv. Accepted Nature Communications.
+* Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, **DOYLE SR**, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. [Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni](https://doi.org/10.1038/s41467-020-20092-5). Nature Communications.
 
-* Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1101/808923). bioRxiv. Accepted PLoS NTD.
+* Durrant C, Thiele EA, Holroyd N, **DOYLE SR**, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA. [Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis](https://doi.org/10.1371/journal.pntd.0008623). PLoS NTD.
 
 * Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, Holroyd N, Berriman M. (2020) [Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection](https://doi.org/10.1186/s12915-020-00899-w). BMC Biology.
 
