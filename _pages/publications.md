@@ -19,7 +19,7 @@ author_profile: true
 
 **Summary**
 *	Total: 35 publications; 12 first author
-*	Since 2015 (last 5 yrs): 31 publications; 8 first author
+*	Since 2016 (last 5 yrs): 30 publications; 7 first author
 
 * You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en) profile
 
