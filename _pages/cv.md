@@ -37,5 +37,6 @@ Advisor: Dr Chee Kai Chan*
 ## Professional associations and contributions
 Associations : Genetics Society of AustralAsia; The Australian Society for Parasitology; British Society for Parasitology
 
-Journal Referee : PLoS Neglected Tropical Diseases; PLoS One; Bioinformatics; Molecular Ecology Resources, Nucleic Acid Research,
-Scientific Reports, GigaScience, International Journal of Parasitology, Genome Biology and Evolution, Parasites and Vectors, Parasitology International
+Associate Editor: Parasites and Vectors (Parasite genetics, genomics and proteomics section)
+
+Journal Referee : Bioinformatics, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Molecular Ecology Resources, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, Scientific Reports, Trends in Parasitology.
