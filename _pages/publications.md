@@ -37,7 +37,7 @@ author_profile: true
 **2021** <a name="2021"></a>
 * Writing, writing, writing...
 
-* peer review: International Journal for Parasitology DDR, Parasitology Research
+* peer review: International Journal for Parasitology DDR, Parasitology Research, PLoS NTD, BMC Biotechnology
 
 
 **2020** <a name="2020"></a>
