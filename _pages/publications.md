@@ -37,7 +37,7 @@ author_profile: true
 **2021** <a name="2021"></a>
 * Writing, writing, writing...
 
-* peer review: BMC Biotechnology, Infection Genetics and Evolution, Frontiers in Tropical Diseases, International Journal for Parasitology DDR, Mitochondrial DNA Part B: Resources, Parasitology Research, PLoS NTD,  
+* peer review: BMC Biotechnology, Infection Genetics and Evolution, Frontiers in Tropical Diseases, International Journal for Parasitology DDR, Mitochondrial DNA Part B: Resources, Parasitology Research, PLoS NTD.  
 
 
 **2020** <a name="2020"></a>
