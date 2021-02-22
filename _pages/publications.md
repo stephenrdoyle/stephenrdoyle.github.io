@@ -18,13 +18,14 @@ author_profile: true
 
 
 **Summary**
-*	Total: 35 publications; 12 first author
+*	Total: 36 publications; 12 first author
 *	Since 2016 (last 5 yrs): 30 publications; 7 first author
 
 * You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en) profile
 
 
 **In review / preprints** <a name="in-review-preprints"></a>
+* McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea* Sm. Asphodelaceae) revealed using targeted amplicon sequencing. In review.
 
 * Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv.
 
@@ -34,9 +35,9 @@ author_profile: true
 
 
 **2021** <a name="2021"></a>
-* McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. (2021) Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea* Sm. Asphodelaceae) revealed using targeted amplicon sequencing. Accepted Australian Systematic Botany.
+* Writing, writing, writing...
 
-* peer review: International Journal for Parasitology DDR, Parasitology Research, PLoS NTD, BMC Biotechnology
+* peer review: BMC Biotechnology, Infection Genetics and Evolution, Frontiers in Tropical Diseases, International Journal for Parasitology DDR, Mitochondrial DNA Part B: Resources, Parasitology Research, PLoS NTD,  
 
 
 **2020** <a name="2020"></a>
